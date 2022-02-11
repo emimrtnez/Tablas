@@ -1,0 +1,86 @@
+.hanalei {
+    font-family: 'Hanalei', cursive;
+    text-align: center;
+}
+
+table.primera {
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+caption {
+    background-color: rgb(255, 230, 0);
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+
+caption.final {
+    background-color: rgb(255, 230, 0);
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    caption-side: bottom;
+}
+
+td {
+    text-align: center;
+}
+
+hr.primera {
+    height: 30px;
+    border: 2px solid black;
+}
+
+table.segundo {
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    border-collapse: collapse;
+    margin-bottom: 40px;
+}
+
+th.final {
+    border-bottom: 5px red dotted;
+}
+
+td.izquierda {
+    text-align: center;
+    border-left: 5px red dotted;
+}
+
+td.derecha {
+    text-align: center;
+    border-right: 5px red dotted;
+}
+
+td.izquierda-abajo {
+    text-align: center;
+    border-left: 5px red dotted;
+    border-bottom: 5px red dotted;
+}
+
+td.derecha-abajo {
+    text-align: center;
+    border-right: 5px red dotted;
+    border-bottom: 5px red dotted;
+}
+
+hr.espacio {
+    width: 50%;
+    text-align: center;
+}
+
+p.final {
+    margin-top: 0px;
+    height: 20px;
+    border: 4px solid red;
+    text-align: center;
+    color: blue;
+    background-color: rgb(255, 230, 0);
+    padding: 20px;
+    font-weight: bold;
+}
